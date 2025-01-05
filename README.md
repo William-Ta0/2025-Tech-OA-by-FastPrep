@@ -25,7 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
-| Amazon | [Discount Events](https://www.fastprep.io/problems/amazon-discount-events) | <a href="https://www.fastprep.io/problems/amazon-discount-events"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 05, 2025 |
+| Amazon | [Discount Events](https://www.fastprep.io/problems/amazon-discount-events) | <a href="https://www.fastprep.io/problems/amazon-discount-events"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 04, 2025 |
 | Amazon | [Similar Text Substring Count](https://www.fastprep.io/problems/amazon-similar-text-substring-count) | <a href="https://www.fastprep.io/problems/amazon-similar-text-substring-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2024 |
 | Amazon | [Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate) | <a href="https://www.fastprep.io/problems/amazon-max-transfer-rate"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 22, 2024 |
 | Amazon | [Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations) | <a href="https://www.fastprep.io/problems/amazon-get-final-locations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 22, 2024 |
