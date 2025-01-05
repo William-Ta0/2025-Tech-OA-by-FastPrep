@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Discount Events](https://www.fastprep.io/problems/amazon-discount-events) | <a href="https://www.fastprep.io/problems/amazon-discount-events"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 05, 2025 |
 | Amazon | [Similar Text Substring Count](https://www.fastprep.io/problems/amazon-similar-text-substring-count) | <a href="https://www.fastprep.io/problems/amazon-similar-text-substring-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2024 |
 | Amazon | [Max Transfer Rate](https://www.fastprep.io/problems/amazon-max-transfer-rate) | <a href="https://www.fastprep.io/problems/amazon-max-transfer-rate"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 22, 2024 |
 | Amazon | [Get Final Location](https://www.fastprep.io/problems/amazon-get-final-locations) | <a href="https://www.fastprep.io/problems/amazon-get-final-locations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 22, 2024 |
@@ -319,6 +320,8 @@
 | Adobe | [Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe) | <a href="https://www.fastprep.io/problems/get-minimum-operations-adobe"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
 | Twilio | [Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness) | <a href="https://www.fastprep.io/problems/twilio-find-maximum-greatness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
 | Twilio | [Count Groups](https://www.fastprep.io/problems/twilio-count-groups) | <a href="https://www.fastprep.io/problems/twilio-count-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
+| TikTok | [TikTok Spam Filter](https://www.fastprep.io/problems/tiktok-get-spam-comments) | <a href="https://www.fastprep.io/problems/tiktok-get-spam-comments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 04, 2024 |
+| TikTok | [Count Twin Pairs](https://www.fastprep.io/problems/tiktok-count-twin-pairs) | <a href="https://www.fastprep.io/problems/tiktok-count-twin-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 04, 2024 |
 | TikTok | [Interesting Watch Sequence](https://www.fastprep.io/problems/tiktok-interesting-watch-sequence) | <a href="https://www.fastprep.io/problems/tiktok-interesting-watch-sequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 03, 2024 |
 | TikTok | [Create Maximum Collaborations](https://www.fastprep.io/problems/tiktok-create-maximum-collaborations) | <a href="https://www.fastprep.io/problems/tiktok-create-maximum-collaborations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 24, 2024 |
 | TikTok | [Maximize Processing Power](https://www.fastprep.io/problems/tiktok-maximize-processing-power) | <a href="https://www.fastprep.io/problems/tiktok-maximize-processing-power"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 24, 2024 |
