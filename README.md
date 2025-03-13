@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost) | <a href="https://www.fastprep.io/problems/amazon-find-partition-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2025 |
 | Amazon | [The Best Way To Pack](https://www.fastprep.io/problems/amazon-best-way-to-pack) | <a href="https://www.fastprep.io/problems/amazon-best-way-to-pack"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 10, 2025 |
 | Amazon | [Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data) | <a href="https://www.fastprep.io/problems/amazon-get-most-out-of-the-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 10, 2025 |
 | Amazon | [Max Number of Products You can Pick](https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick) | <a href="https://www.fastprep.io/problems/amazon-maximum-number-of-products-you-can-pick"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 05, 2025 |
