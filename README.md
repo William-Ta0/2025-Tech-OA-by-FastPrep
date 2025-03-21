@@ -25,6 +25,11 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards) | <a href="https://www.fastprep.io/problems/amazon-all-about-rewards"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2025 |
+| Amazon | [Compute Least Truck Count](https://www.fastprep.io/problems/amazon-get-minimum-number-of-trucks) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-number-of-trucks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2025 |
+| Amazon | [Get the Fewest Moves](https://www.fastprep.io/problems/amazon-get-minimum-operations) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2025 |
+| Amazon | [Inventory Processes Survival Possibility](https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility) | <a href="https://www.fastprep.io/problems/amazon-inventory-processes-survival-possibility"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2025 |
+| Amazon | [All About Medians](https://www.fastprep.io/problems/amazon-medians) | <a href="https://www.fastprep.io/problems/amazon-medians"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2025 |
 | Amazon | [Get Largest Number](https://www.fastprep.io/problems/amazon-find-partition-cost) | <a href="https://www.fastprep.io/problems/amazon-find-partition-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2025 |
 | Amazon | [The Best Way To Pack](https://www.fastprep.io/problems/amazon-best-way-to-pack) | <a href="https://www.fastprep.io/problems/amazon-best-way-to-pack"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 10, 2025 |
 | Amazon | [Get The Most Out Of The Data](https://www.fastprep.io/problems/amazon-get-most-out-of-the-data) | <a href="https://www.fastprep.io/problems/amazon-get-most-out-of-the-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 10, 2025 |
