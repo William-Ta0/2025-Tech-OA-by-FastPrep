@@ -25,7 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
-| Amazon | [Trader Trades](https://www.fastprep.io/problems/amazon-trader-trades) | <a href="https://www.fastprep.io/problems/amazon-trader-trades"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2025 |
+| Amazon | [Trader Joe Trades](https://www.fastprep.io/problems/amazon-trader-joe-trades) | <a href="https://www.fastprep.io/problems/amazon-trader-joe-trades"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2025 |
 | Amazon | [Optimal Level](https://www.fastprep.io/problems/amazon-find-optimal-level) | <a href="https://www.fastprep.io/problems/amazon-find-optimal-level"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2025 |
 | Amazon | [Min Operation](https://www.fastprep.io/problems/amazon-min-operation) | <a href="https://www.fastprep.io/problems/amazon-min-operation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2025 |
 | Amazon | [All About Rewards](https://www.fastprep.io/problems/amazon-all-about-rewards) | <a href="https://www.fastprep.io/problems/amazon-all-about-rewards"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2025 |
