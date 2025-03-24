@@ -23,9 +23,10 @@
 [⬇️ Jump to Bottom ⬇️](https://github.com/perixtar/2024-Tech-OA#bottom)
 
 
-| Company | OA Question | Practice (Beta) | Uploaded Time |
+| Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
-| Amazon | [Get Sum after Queries](https://www.fastprep.io/problems/amazon-sum-after-query-update) | <a href="https://www.fastprep.io/problems/amazon-sum-after-query-update"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
+| Amazon | [Number Of Well PerformingGroups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups) | <a href="https://www.fastprep.io/problems/amazon-number-of-well-performing-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Amazon | [Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum) | <a href="https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Amazon | [Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments) | <a href="https://www.fastprep.io/problems/amazon-get-max-increments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
 | Amazon | [Password Strength](https://www.fastprep.io/problems/amazon-password-strength) | <a href="https://www.fastprep.io/problems/amazon-password-strength"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
 | Amazon | [Find Max Number of Balanced Combinations](https://www.fastprep.io/problems/amazon-find-maximum-number-of-balanced-combinations) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-number-of-balanced-combinations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
@@ -794,7 +795,9 @@
 | Paypal | [Find Min Price to Spend](https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend) | <a href="https://www.fastprep.io/problems/paypal-find-minimum-price-to-spend"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
 | Paypal | [Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations) | <a href="https://www.fastprep.io/problems/paypal-count-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
 | Paypal | [User Logins](https://www.fastprep.io/problems/paypal-count-user-logins) | <a href="https://www.fastprep.io/problems/paypal-count-user-logins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
-| Split Array Largest Sum | [Tool Changer](https://www.fastprep.io/problems/salesforce-split-array-largest-sum) | <a href="https://www.fastprep.io/problems/salesforce-split-array-largest-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2024 |
+| Salesfoece| [Find Longest Subsequence Common To X As Substring In Y](https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y) | <a href="https://www.fastprep.io/problems/salesforce-find-longest-subsequence-common-to-x-as-substring-in-y"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2024 |
+| Salesfoece| [Find Word sNot In Subsequence](https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence) | <a href="https://www.fastprep.io/problems/salesforce-find-words-in-string-not-in-subsequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2024 |
+| Salesfoece| [Tool Changer](https://www.fastprep.io/problems/salesforce-split-array-largest-sum) | <a href="https://www.fastprep.io/problems/salesforce-split-array-largest-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2024 |
 | Salesforce | [Minimize Total Input Cost](https://www.fastprep.io/problems/salesforce-minimize-total-input-cost) | <a href="https://www.fastprep.io/problems/salesforce-minimize-total-input-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 20, 2024 |
 | Salesforce | [Max Sum of Processed Time](https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times) | <a href="https://www.fastprep.io/problems/salesforce-maximize-sum-of-processed-times"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 30, 2024 |
 | Salesforce | [Find Minimum Idleness](https://www.fastprep.io/problems/salesforce-find-minimum-idleness) | <a href="https://www.fastprep.io/problems/salesforce-find-minimum-idleness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 26, 2024 |
@@ -965,6 +968,11 @@
 | Unknown Company | [Build Monuments](https://www.fastprep.io/problems/build-monuments) | <a href="https://www.fastprep.io/problems/build-monuments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2025 |
 | Ramp | [Accept or Decline Queries](https://www.fastprep.io/problems/ramp-accept-or-decline-queries) | <a href="https://www.fastprep.io/problems/ramp-accept-or-decline-queries"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
 | Publicis Sapients | [Get Min Time](https://www.fastprep.io/problems/publicis-sapients-get-minimum-time) | <a href="https://www.fastprep.io/problems/publicis-sapients-get-minimum-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
+| Rippling | [Maximum Time Required To Transfer Data](https://www.fastprep.io/problems/rippling-maximum-time-required-to-transfer-data) | <a href="https://www.fastprep.io/problems/rippling-maximum-time-required-to-transfer-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Instacart | [Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks) | <a href="https://www.fastprep.io/problems/instacart-collect-sticks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Instacart | [Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles) | <a href="https://www.fastprep.io/problems/instacart-pop-bubbles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Instacart | [Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs) | <a href="https://www.fastprep.io/problems/instacart-balloon-color-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+
 <a id="bottom"></a>
 ## Aloha~ Thank you for walking this path with us. 🧡<br>
 ⬆️ [Back to Top](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file#20242025-tech-internshipfulltime-oas) ⬆️
