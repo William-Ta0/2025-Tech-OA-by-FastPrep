@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Publicis Sapients, Quora, Ramp, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, ZoloStays, Zolando, ZipRecruiter, Zscaler.
+📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Publicis Sapients, Quora, Ramp, Rippling, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, ZoloStays, Zolando, ZipRecruiter, Zscaler.
  
 --- 
 <div align="center">
@@ -25,7 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
-| Amazon | [Number Of Well PerformingGroups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups) | <a href="https://www.fastprep.io/problems/amazon-number-of-well-performing-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Amazon | [Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups) | <a href="https://www.fastprep.io/problems/amazon-number-of-well-performing-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Amazon | [Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum) | <a href="https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Amazon | [Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments) | <a href="https://www.fastprep.io/problems/amazon-get-max-increments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
 | Amazon | [Password Strength](https://www.fastprep.io/problems/amazon-password-strength) | <a href="https://www.fastprep.io/problems/amazon-password-strength"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
