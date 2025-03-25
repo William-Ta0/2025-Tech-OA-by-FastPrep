@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Publicis Sapients, Quora, Ramp, Rippling, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, ZoloStays, Zolando, ZipRecruiter, Zscaler.
+📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, Fortinet, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Publicis Sapients, Quora, Ramp, Rippling, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, Tesla, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, ZoloStays, Zolando, ZipRecruiter, Zscaler.
  
 --- 
 <div align="center">
@@ -25,6 +25,8 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Make Array Distinct](https://www.fastprep.io/problems/amazon-make-array-distinct) | <a href="https://www.fastprep.io/problems/amazon-make-array-distinct"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
+| Amazon | [Find Least Possible Vulnerability](https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability) | <a href="https://www.fastprep.io/problems/amazon-find-least-possible-vulnerability"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
 | Amazon | [Number Of Well Performing Groups](https://www.fastprep.io/problems/amazon-number-of-well-performing-groups) | <a href="https://www.fastprep.io/problems/amazon-number-of-well-performing-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Amazon | [Ensure Non Zero Load Sum](https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum) | <a href="https://www.fastprep.io/problems/amazon-ensure-non-zero-load-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Amazon | [Get Max Increments](https://www.fastprep.io/problems/amazon-get-max-increments) | <a href="https://www.fastprep.io/problems/amazon-get-max-increments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 22, 2025 |
@@ -972,7 +974,9 @@
 | Instacart | [Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks) | <a href="https://www.fastprep.io/problems/instacart-collect-sticks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Instacart | [Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles) | <a href="https://www.fastprep.io/problems/instacart-pop-bubbles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Instacart | [Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs) | <a href="https://www.fastprep.io/problems/instacart-balloon-color-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
-
+| Fortinet | [Beautiful Strings](https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings) | <a href="https://www.fastprep.io/problems/fortinet-maximize-beautiful-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
+| Tesla | [Shoe Factory](https://www.fastprep.io/problems/tesla-shoe-factory) | <a href="https://www.fastprep.io/problems/tesla-shoe-factory"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
+| Tesla | [Encrypt](https://www.fastprep.io/problems/tesla-encrypt) | <a href="https://www.fastprep.io/problems/tesla-encrypt"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
 <a id="bottom"></a>
 ## Aloha~ Thank you for walking this path with us. 🧡<br>
 ⬆️ [Back to Top](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file#20242025-tech-internshipfulltime-oas) ⬆️
