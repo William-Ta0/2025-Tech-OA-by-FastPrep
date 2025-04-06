@@ -25,6 +25,9 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization) | <a href="https://www.fastprep.io/problems/amazon-optimal-utilization"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2025 |
+| Amazon | [Ways to Select Fleet](https://www.fastprep.io/problems/amazon-count-ways-to-select-fleet) | <a href="https://www.fastprep.io/problems/amazon-count-ways-to-select-fleet"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2025 |
+| Amazon | [Buy Servers](https://www.fastprep.io/problems/amazon-purchase-servers) | <a href="https://www.fastprep.io/problems/amazon-purchase-servers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2025 |
 | Amazon | [Help AMZ Find Min Time Again](https://www.fastprep.io/problems/amazon-help-amazon-find-min-time-again) | <a href="https://www.fastprep.io/problems/amazon-help-amazon-find-min-time-again"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 31, 2025 |
 | Amazon | [Min Retailers](https://www.fastprep.io/problems/amazon-minimum-retailers) | <a href="https://www.fastprep.io/problems/amazon-minimum-retailers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 31, 2025 |
 | Amazon | [Cinema Shows](https://www.fastprep.io/problems/amazon-cinema-shows) | <a href="https://www.fastprep.io/problems/amazon-cinema-shows"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 31, 2025 |
