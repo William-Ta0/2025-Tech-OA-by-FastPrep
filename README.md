@@ -1,16 +1,16 @@
 # 2025 Tech Internship/Fulltime OAs
 
-⭐️ This board is aiming to help you centralize the Online Assessments from different companies. It is updated constantly to make sure you have the most update to date OAs.
+⭐ This board is aiming to help you centralize the Online Assessments from different companies. It is updated constantly to make sure you have the most update to date OAs.
 
 🙏 If you found this repo helpful, we would appreciate a star. It takes us a big effort to keep the OAs up to date 😳
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, Fortinet, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, HSBC, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Publicis Sapients, Quora, Ramp, Rippling, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, Tesla, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, YahoO, ZoloStays, Zolando, ZipRecruiter, Zscaler.
+📝 Accenture, Adobe, Agoda, Akuna, Alarm.com, Amazon, Arista Networks, Atlassian, Barclays, Blackrock, BNP, Braze, BNY Mellon, Canva, Capital One, Cisco, Citadel, Codeium, Commvault, Confluent, Cvent, Databricks, Deutsche Bank, DoorDash, Eat Club, Epam, Expedia, FactSet, Flexport, Fortinet, GE Vernova, Geneva Trading, General Motors, Goldman Sachs, Google, Hudson River Trading, HSBC, Hyper Verge, IBM, IMC, Infosys, Intuit, IXL Learning, Jane Street, JP Morgan, LinkedIn, Mathworks, Meta, Micro1, Microsoft, Moveworks, Nutanix, Observer.AI, Onix, OpenAI, Optiver, Oracle, Palantir, Patreon, Paypal, Point 72, Publicis Sapients, Quora, Ramp, Rippling, Roblox, Rubrik, Rurik, Salesforce, Samsung, ServiceNow, Sig, Snowflake, Sofi, Squarepoint, Stripe, Tesla, ThoughtSpot, TikTok, Toshiba, Trade Desk, Trend Micro, Twilio, Two Sigma, Walmart, Wayfair, Walleye Capital, Wells Fargo, Wolverine Trading, Xperi, YahoO, ZoloStays, Zolando, ZipRecruiter, Zscaler.
  
 --- 
 <div align="center">
-	<h3>🤘 Join the community for more OA updates 😎</h3>
+	<h3>🐳 Join the community for more OA updates 😎</h3>
   <div>
       <a href="https://discord.gg/kSbWpSGUTH">
       <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Remove Characters in Frequency Order](https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order) | <a href="https://www.fastprep.io/problems/amazon-remove-characters-in-frequency-order"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2025 |
 | Amazon | [Count Failed Executions](https://www.fastprep.io/problems/amazon-count-failed-executions) | <a href="https://www.fastprep.io/problems/amazon-count-failed-executions"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2025 |
 | Amazon | [Optimal Utilization](https://www.fastprep.io/problems/amazon-optimal-utilization) | <a href="https://www.fastprep.io/problems/amazon-optimal-utilization"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2025 |
 | Amazon | [Ways to Select Fleet](https://www.fastprep.io/problems/amazon-count-ways-to-select-fleet) | <a href="https://www.fastprep.io/problems/amazon-count-ways-to-select-fleet"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2025 |
@@ -666,6 +667,7 @@
 | Intuit | [Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string) | <a href="https://www.fastprep.io/problems/intuit-rearrange-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles) | <a href="https://www.fastprep.io/problems/intuit-letter-candles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference) | <a href="https://www.fastprep.io/problems/intuit-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
+| Microsoft | [Min Cars to Remove](https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove) | <a href="https://www.fastprep.io/problems/microsoft-minimum-cars-to-remove"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2024 |
 | Microsoft | [Freeing Shelves](https://www.fastprep.io/problems/microsoft-maximize-types-after-freeing-shelves) | <a href="https://www.fastprep.io/problems/microsoft-maximize-types-after-freeing-shelves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 25, 2024 |
 | Microsoft | [Balance the Game Board](https://www.fastprep.io/problems/microsoft-balance-the-game-board) | <a href="https://www.fastprep.io/problems/microsoft-balance-the-game-board"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 25, 2024 |
 | Microsoft | [Maximize Number Of Produced Cars](https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars) | <a href="https://www.fastprep.io/problems/microsoft-maximize-number-of-produced-cars"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 08, 2024 |
@@ -1008,6 +1010,7 @@
 | Tesla | [Encrypt](https://www.fastprep.io/problems/tesla-encrypt) | <a href="https://www.fastprep.io/problems/tesla-encrypt"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 24, 2025 |
 | HSBC | [Flower Bouquets](https://www.fastprep.io/problems/hsbc-arrange-flower-sticks) | <a href="https://www.fastprep.io/problems/hsbc-arrange-flower-sticks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 28, 2025 |
 | HSBC | [Max House Area](https://www.fastprep.io/problems/hsbc-find-largest-house-area) | <a href="https://www.fastprep.io/problems/hsbc-find-largest-house-area"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 28, 2025 |
+| Point 72 | [Get Triplet Count](https://www.fastprep.io/problems/point72-get-triplet-count) | <a href="https://www.fastprep.io/problems/point72-get-triplet-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2025 |
 | YahoO | [Count Substring](https://www.fastprep.io/problems/yahoo-get-substring-count) | <a href="https://www.fastprep.io/problems/yahoo-get-substring-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 28, 2025 |
 | YahoO | [Get String](https://www.fastprep.io/problems/yahoo-get-string) | <a href="https://www.fastprep.io/problems/yahoo-get-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 28, 2025 |
 <a id="bottom"></a>
