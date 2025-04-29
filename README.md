@@ -25,6 +25,9 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Min Dock Bays](https://www.fastprep.io/problems/amazon-get-minimum-dock-bays) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-dock-bays"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2025 |
+| Amazon | [Find Idle Skill Query](https://www.fastprep.io/problems/amazon-find-idle-skills-query) | <a href="https://www.fastprep.io/problems/amazon-find-idle-skills-query"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2025 |
+| Amazon | [Compute Beauty of Array Products](https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products) | <a href="https://www.fastprep.io/problems/amazon-compute-beauty-of-array-products"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2025 |
 | Amazon | [Min Num Unique Distribution Hubs](https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-number-of-unique-distribution-centers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 13, 2025 |
 | Amazon | [Use Minimum Tokens](https://www.fastprep.io/problems/amazon-use-minimum-tokens) | <a href="https://www.fastprep.io/problems/amazon-use-minimum-tokens"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 13, 2025 |
 | Amazon | [Next Perfect String](https://www.fastprep.io/problems/amazon-next-greater-perfect-string) | <a href="https://www.fastprep.io/problems/amazon-next-greater-perfect-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 13, 2025 |
