@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Minimize Variation](https://www.fastprep.io/problems/amazon-minimize-variation) | <a href="https://www.fastprep.io/problems/amazon-minimize-variation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 10, 2025 |
 | Amazon | [Find Minimum Days](https://www.fastprep.io/problems/amazon-find-minimum-days) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-days"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 31, 2025 |
 | Amazon | [Split Prefix Suffix](https://www.fastprep.io/problems/amazon-split-prefix-suffix) | <a href="https://www.fastprep.io/problems/amazon-split-prefix-suffix"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 31, 2025 |
 | Amazon | [Find Minimum Machine Sizes](https://www.fastprep.io/problems/amazon-find-minimum-machines-size) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-machines-size"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 31, 2025 |
