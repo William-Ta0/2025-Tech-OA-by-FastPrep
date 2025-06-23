@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer) | <a href="https://www.fastprep.io/problems/amazon-predict-answer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 23, 2025 |
 | Amazon | [Minimum Total Packaging Effort](https://www.fastprep.io/problems/amazon-minimum-total-packaging-effort) | <a href="https://www.fastprep.io/problems/amazon-minimum-total-packaging-effort"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 20, 2025 |
 | Amazon | [Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments) | <a href="https://www.fastprep.io/problems/amazon-get-min-subsegments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 18, 2025 |
 | Amazon | [Find Security Level](https://www.fastprep.io/problems/amazon-find-security-level) | <a href="https://www.fastprep.io/problems/amazon-find-security-level"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 18, 2025 |
