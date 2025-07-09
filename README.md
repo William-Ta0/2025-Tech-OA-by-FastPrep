@@ -25,6 +25,7 @@
 
 | Company | OA Question | Practice (Beta) | Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximize Pages Before Suspension](https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension) | <a href="https://www.fastprep.io/problems/amazon-maximize-pages-before-suspension"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2025 |
 | Amazon | [Predict Answer](https://www.fastprep.io/problems/amazon-predict-answer) | <a href="https://www.fastprep.io/problems/amazon-predict-answer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 23, 2025 |
 | Amazon | [Minimum Total Packaging Effort](https://www.fastprep.io/problems/amazon-minimum-total-packaging-effort) | <a href="https://www.fastprep.io/problems/amazon-minimum-total-packaging-effort"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 20, 2025 |
 | Amazon | [Get Min Subsegments](https://www.fastprep.io/problems/amazon-get-min-subsegments) | <a href="https://www.fastprep.io/problems/amazon-get-min-subsegments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 18, 2025 |
@@ -1051,6 +1052,7 @@
 | Instacart | [Bird Collects Sticks](https://www.fastprep.io/problems/instacart-collect-sticks) | <a href="https://www.fastprep.io/problems/instacart-collect-sticks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Instacart | [Pop Bubbles](https://www.fastprep.io/problems/instacart-pop-bubbles) | <a href="https://www.fastprep.io/problems/instacart-pop-bubbles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
 | Instacart | [Count Color Pairs](https://www.fastprep.io/problems/instacart-balloon-color-pairs) | <a href="https://www.fastprep.io/problems/instacart-balloon-color-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 23, 2025 |
+| Fortinet | [Compute Checksum Aggregation](https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation) | <a href="https://www.fastprep.io/problems/fortinet-compute-checksum-aggregation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jul, 08, 2025 |
 | Fortinet | [Madam C.J. Walker's Business Plan](https://www.fastprep.io/problems/fortinet-calculate-maximum-profit) | <a href="https://www.fastprep.io/problems/fortinet-calculate-maximum-profit"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 24, 2025 |
 | Fortinet | [K-Means Clustering](https://www.fastprep.io/problems/fortinet-get-maximum-distance) | <a href="https://www.fastprep.io/problems/fortinet-get-maximum-distance"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 24, 2025 |
 | Fortinet | [Signal Pings](https://www.fastprep.io/problems/fortinet-get-required-sweeps) | <a href="https://www.fastprep.io/problems/fortinet-get-required-sweeps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jun, 24, 2025 |
